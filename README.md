@@ -27,7 +27,9 @@ Frameworks & Libraries:
  - nodemon
  - path
  - express
- 
+ - mocha
+ - should
+ - assert
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.

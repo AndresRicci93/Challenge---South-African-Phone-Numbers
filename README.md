@@ -38,7 +38,7 @@ You need to install on your machine:
 
 ### Install
 
-If you encounter any error/problem delete the node_modules folder and execute npm install 
+npm install 
 
 ### Usage
 

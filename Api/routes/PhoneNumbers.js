@@ -11,7 +11,7 @@ const __dirname = path.resolve();
 
 router.get('/phoneNumbers', (req, res) => {
     console.log(jsonContent);
-    res.send(jsonContent);
+    res.status(200).send(jsonContent);
 
 });
 

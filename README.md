@@ -65,7 +65,7 @@ npm run test
 
 👤 **Author**
 
-- Github: [@githubhandle](https://github.com/AndresRicci93/)
+- Github: https://github.com/AndresRicci93/
 
 
 

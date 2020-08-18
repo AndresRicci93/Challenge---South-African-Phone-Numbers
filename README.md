@@ -10,13 +10,15 @@ The user is also capable to check and validate a phone number through the apposi
 
 ## Built With
 
-- Major languages:
- Javascript,Html,Css
+Major languages:
+ 
+ - Javascript,Html,Css
 
-- Frameworks & Libraries:
- Nodejs (API), ReactJS (Front End)
+Frameworks & Libraries:
+ 
+ - Nodejs (API), ReactJS (Front End)
 
-- dependencies
+ dependencies
  - csvtojson
  - axios
  - react-hook-form
